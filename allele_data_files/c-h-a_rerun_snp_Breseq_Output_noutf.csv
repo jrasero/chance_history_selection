@@ -1,0 +1,1209 @@
+Sample,Evidence,Seq ID,Position,Mutation,Frequency,Annotation,Gene,Description
+breseq_13,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_13,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_13,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_13,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_13,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_13,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_13,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_13,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_13,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_13,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_13,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_13,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_13,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_13,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_13,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_13,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_13,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_13,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_13,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_13,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_13,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_13,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_13,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_13,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_13,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_13,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_13,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_13,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_13,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_13,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_13,RA,NZ_CP012004,"795,994",CA,83.2%,V158L(GTATTA),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_13,RA,NZ_CP012004,"796,184",AC,21.9%,F94L(TTTTTG),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_13,RA,NZ_CP012004,"1,938,518",AT,8.6%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_13,RA,NZ_CP012004,"1,939,476",TA,31.2%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_13,RA,NZ_CP012004,"1,939,485",GC,49.2%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_13,RA,NZ_CP012004,"1,939,486",GT,49.2%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_13,RA,NZ_CP012004,"2,215,667",TC,13.2%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,670",GT,13.2%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,674",AG,13.2%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,676",CT,13.7%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,677",AT,13.3%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,679",AT,13.1%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,691",CT,15.1%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,694",CT,15.0%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,698",CT,15.2%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,700",TG,14.3%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,703",TA,13.2%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,706",CT,13.9%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,713",CG,21.0%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,715",CG,21.8%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,718",AT,22.1%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,727",CA,33.6%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,729",AG,33.4%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,730",AT,33.6%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,736",AT,35.0%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,740",TA,34.5%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,763",AT,37.6%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,766",GA,37.6%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,769",AT,36.0%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,772",TC,35.8%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,775",GA,35.5%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,781",AC,34.2%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,782",AC,34.5%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,784",TA,33.9%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,785",TC,34.0%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,787",AT,34.2%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,799",GA,25.5%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,802",TA,25.6%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,803",CG,25.6%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,805",TA,25.3%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,806",AG,26.4%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,808",AT,26.4%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,811",CA,26.8%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,814",GT,26.9%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,816",GA,26.9%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,817",TC,27.5%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,832",TC,27.0%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,838",TC,19.3%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,841",CT,19.7%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,844",AT,19.8%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,847",CT,17.4%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,850",CT,16.4%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,215,856",CA,15.8%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_13,RA,NZ_CP012004,"2,824,295",AG,9.2%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,298",CA,9.3%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,304",AG,9.1%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,307",GA,8.9%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,310",AC,9.6%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,313",AC,9.8%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,319",TG,9.9%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,322",CG,20.7%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,325",TA,19.7%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,334",TC,34.2%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,346",CG,37.7%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,352",GA,36.7%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,358",CT,38.8%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,361",CT,38.7%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,370",GA,38.4%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,376",GT,40.4%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,379",AC,39.1%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,382",TC,38.9%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,385",TC,36.4%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,391",TA,42.5%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,397",CG,42.6%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,421",GA,45.3%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,430",TA,41.2%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,432",AG,41.8%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,433",AT,41.9%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,435",CG,41.1%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,436",TC,41.3%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,439",AT,41.7%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,442",AG,41.8%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,453",CT,38.0%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,454",TG,38.0%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,457",GA,38.2%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,466",AG,33.3%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,469",AT,23.5%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,471",GA,24.7%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,472",TG,24.6%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,475",CT,24.0%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,487",GT,21.0%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,489",GA,20.9%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,490",TA,20.8%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,493",TA,19.3%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,495",GT,19.6%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,502",AT,20.4%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,503",CT,20.1%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,508",TA,20.3%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,514",AC,17.8%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,517",GA,18.6%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,520",TG,17.0%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,525",GT,15.7%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_13,RA,NZ_CP012004,"2,824,526",AG,15.1%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_14,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_14,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_14,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_14,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_14,RA,NZ_CP012004,"489,649",CT,100%,R129C(CGTTGT),ACX60_RS02390,hypothetical protein
+breseq_14,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_14,RA,NZ_CP012004,"794,443",CT,100%,E675K(GAAAAA),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_14,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_14,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_14,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_14,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_14,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_14,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_14,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_14,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_14,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_14,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_14,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_14,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_14,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_14,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_14,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_14,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_14,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_14,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_14,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_14,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_14,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_14,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_14,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_14,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_14,RA,NZ_CP012004,"1,939,476",TA,25.3%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_14,RA,NZ_CP012004,"1,939,485",GC,57.4%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_14,RA,NZ_CP012004,"1,939,486",GT,57.4%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_14,RA,NZ_CP012004,"2,215,667",TC,11.9%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,670",GT,12.3%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,674",AG,12.2%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,676",CT,12.3%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,677",AT,12.7%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,679",AT,12.2%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,691",CT,14.1%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,694",CT,13.8%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,698",CT,14.1%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,700",TG,13.3%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,703",TA,12.4%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,706",CT,13.8%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,713",CG,22.9%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,715",CG,23.5%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,718",AT,22.8%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,727",CA,34.4%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,729",AG,34.5%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,730",AT,34.3%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,736",AT,36.0%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,740",TA,36.3%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,763",AT,40.4%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,766",GA,40.8%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,769",AT,40.2%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,772",TC,38.4%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,775",GA,38.1%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,781",AC,37.1%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,782",AC,37.3%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,784",TA,37.4%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,785",TC,37.2%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,787",AT,37.5%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,799",GA,28.3%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,802",TA,28.1%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,803",CG,28.1%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,805",TA,27.0%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,806",AG,28.4%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,808",AT,28.5%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,811",CA,28.5%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,814",GT,28.4%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,816",GA,28.3%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,817",TC,29.0%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,832",TC,29.5%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,838",TC,23.5%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,841",CT,23.9%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,844",AT,23.1%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,847",CT,21.0%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,850",CT,19.4%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,215,856",CA,16.6%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_14,RA,NZ_CP012004,"2,342,049",TA,13.8%,Y224F(TATTTT),ACX60_RS11185,stressinduced protein
+breseq_14,RA,NZ_CP012004,"2,824,295",AG,9.0%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,298",CA,9.2%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,304",AG,10.2%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,307",GA,10.5%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,310",AC,12.0%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,313",AC,11.8%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,319",TG,11.6%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,322",CG,29.4%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,325",TA,27.3%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,334",TC,38.2%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,346",CG,41.3%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,352",GA,40.6%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,358",CT,42.6%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,361",CT,43.0%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,370",GA,43.1%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,376",GT,43.7%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,379",AC,42.8%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,382",TC,42.4%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,385",TC,41.7%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,391",TA,45.0%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,397",CG,45.1%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,421",GA,46.7%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,430",TA,41.5%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,432",AG,42.2%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,433",AT,42.3%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,435",CG,41.2%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,436",TC,42.3%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,439",AT,42.6%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,442",AG,42.5%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,453",CT,35.3%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,454",TG,35.9%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,457",GA,36.0%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,466",AG,32.1%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,469",AT,24.2%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,471",GA,25.7%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,472",TG,25.8%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,475",CT,24.2%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,487",GT,21.5%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,489",GA,20.8%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,490",TA,21.1%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,493",TA,19.7%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,495",GT,20.0%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,502",AT,19.9%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,503",CT,19.5%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,508",TA,17.8%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,514",AC,16.2%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,517",GA,16.4%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,520",TG,14.9%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,525",GT,13.4%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_14,RA,NZ_CP012004,"2,824,526",AG,13.0%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_15,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_15,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_15,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_15,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_15,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_15,RA,NZ_CP012004,"796,059",AG,100%,F136S(TTCTCC),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_15,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_15,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_15,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_15,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_15,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_15,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_15,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_15,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_15,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_15,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_15,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_15,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_15,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_15,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_15,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_15,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_15,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_15,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_15,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_15,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_15,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_15,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_15,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_15,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_15,RA,NZ_CP012004,"472,197",GT,10.6%,G448G(GGCGGA),ACX60_RS02305,hypothetical protein
+breseq_15,RA,NZ_CP012004,"1,939,476",TA,22.0%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_15,RA,NZ_CP012004,"1,939,485",GC,55.9%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_15,RA,NZ_CP012004,"1,939,486",GT,56.0%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_15,RA,NZ_CP012004,"2,215,667",TC,6.5%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,670",GT,6.9%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,674",AG,6.6%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,676",CT,6.7%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,677",AT,6.7%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,679",AT,6.5%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,691",CT,10.1%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,694",CT,10.1%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,698",CT,10.1%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,700",TG,10.0%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,703",TA,9.4%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,706",CT,10.5%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,713",CG,21.6%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,715",CG,23.1%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,718",AT,23.0%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,727",CA,35.5%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,729",AG,34.6%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,730",AT,34.2%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,736",AT,34.7%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,740",TA,34.6%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,763",AT,35.7%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,766",GA,36.3%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,769",AT,34.8%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,772",TC,34.7%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,775",GA,34.5%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,781",AC,33.5%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,782",AC,33.7%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,784",TA,33.8%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,785",TC,33.7%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,787",AT,33.6%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,799",GA,27.4%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,802",TA,27.2%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,803",CG,27.3%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,805",TA,26.7%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,806",AG,28.2%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,808",AT,28.2%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,811",CA,28.2%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,814",GT,28.2%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,816",GA,27.5%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,817",TC,28.0%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,832",TC,26.8%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,838",TC,20.6%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,841",CT,21.0%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,844",AT,20.8%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,847",CT,18.7%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,850",CT,15.3%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,215,856",CA,14.7%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_15,RA,NZ_CP012004,"2,824,295",AG,7.9%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,298",CA,7.5%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,304",AG,8.4%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,307",GA,8.3%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,310",AC,9.2%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,313",AC,9.2%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,319",TG,9.8%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,322",CG,24.1%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,325",TA,22.1%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,334",TC,32.4%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,346",CG,36.4%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,352",GA,36.4%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,358",CT,38.6%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,361",CT,38.7%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,370",GA,38.3%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,376",GT,39.1%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,379",AC,38.6%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,382",TC,38.5%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,385",TC,37.9%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,391",TA,41.5%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,397",CG,42.6%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,421",GA,46.1%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,430",TA,40.5%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,432",AG,41.0%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,433",AT,41.0%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,435",CG,40.3%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,436",TC,41.0%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,439",AT,40.9%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,442",AG,41.3%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,453",CT,36.0%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,454",TG,35.8%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,457",GA,36.0%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,466",AG,30.8%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,469",AT,23.7%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,471",GA,24.6%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,472",TG,24.9%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,475",CT,24.6%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,487",GT,20.1%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,489",GA,19.7%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,490",TA,19.7%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,493",TA,17.9%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,495",GT,17.9%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,502",AT,18.5%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,503",CT,18.3%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,508",TA,17.0%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,514",AC,15.1%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,517",GA,14.7%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,520",TG,11.5%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,525",GT,12.9%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,526",AG,12.1%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_15,RA,NZ_CP012004,"2,824,544",CA,5.1%,E356D(GAGGAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_16,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_16,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_16,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_16,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_16,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_16,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_16,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_16,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_16,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_16,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_16,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_16,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_16,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_16,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_16,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_16,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_16,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_16,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_16,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_16,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_16,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_16,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_16,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_16,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_16,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_16,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_16,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_16,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_16,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_16,RA,NZ_CP012004,"418,975",GT,19.2%,P516P(CCGCCT),ACX60_RS01970,DEAD/DEAH box helicase
+breseq_16,JC,NZ_CP012004,"489,534",4bp,7.0%,coding(270273/663nt),ACX60_RS02390,hypothetical protein
+breseq_16,RA,NZ_CP012004,"795,994",CA,41.7%,V158L(GTATTA),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_16,RA,NZ_CP012004,"796,184",AC,41.0%,F94L(TTTTTG),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_16,RA,NZ_CP012004,"1,938,518",AT,6.9%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_16,RA,NZ_CP012004,"1,939,476",TA,30.6%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_16,RA,NZ_CP012004,"1,939,485",GC,56.4%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_16,RA,NZ_CP012004,"1,939,486",GT,56.4%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_16,RA,NZ_CP012004,"2,215,667",TC,6.8%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,670",GT,7.3%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,674",AG,6.8%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,676",CT,6.8%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,677",AT,6.9%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,679",AT,6.8%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,691",CT,10.7%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,694",CT,10.3%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,698",CT,10.6%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,700",TG,10.1%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,703",TA,9.7%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,706",CT,10.2%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,713",CG,19.8%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,715",CG,20.7%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,718",AT,20.7%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,727",CA,34.0%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,729",AG,33.1%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,730",AT,33.3%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,736",AT,34.9%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,740",TA,34.8%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,763",AT,35.5%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,766",GA,36.3%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,769",AT,34.9%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,772",TC,33.3%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,775",GA,33.2%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,781",AC,32.1%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,782",AC,32.4%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,784",TA,32.1%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,785",TC,32.1%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,787",AT,32.1%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,799",GA,24.7%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,802",TA,24.8%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,803",CG,24.8%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,805",TA,23.4%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,806",AG,25.5%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,808",AT,25.5%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,811",CA,25.5%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,814",GT,25.4%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,816",GA,25.2%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,817",TC,25.9%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,832",TC,25.1%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,838",TC,19.6%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,841",CT,19.3%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,844",AT,19.3%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,847",CT,17.9%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,850",CT,14.7%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,215,856",CA,14.6%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_16,RA,NZ_CP012004,"2,824,295",AG,6.8%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,298",CA,6.5%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,304",AG,7.0%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,307",GA,7.0%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,310",AC,7.3%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,313",AC,7.4%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,319",TG,7.8%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,322",CG,23.3%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,325",TA,22.4%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,334",TC,33.2%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,346",CG,38.3%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,352",GA,35.7%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,358",CT,35.9%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,361",CT,36.5%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,370",GA,36.5%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,376",GT,36.7%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,379",AC,36.1%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,382",TC,36.1%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,385",TC,35.8%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,391",TA,39.8%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,397",CG,40.4%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,421",GA,44.8%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,430",TA,40.7%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,432",AG,41.2%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,433",AT,41.1%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,435",CG,40.4%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,436",TC,40.9%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,439",AT,41.0%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,442",AG,41.2%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,453",CT,35.8%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,454",TG,35.2%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,457",GA,35.6%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,466",AG,30.9%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,469",AT,24.1%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,471",GA,25.6%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,472",TG,25.5%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,475",CT,24.6%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,487",GT,21.4%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,489",GA,21.0%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,490",TA,21.0%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,493",TA,19.3%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,495",GT,19.6%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,502",AT,19.7%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,503",CT,19.8%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,508",TA,19.2%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,514",AC,17.5%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,517",GA,17.8%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,520",TG,16.4%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,525",GT,15.2%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"2,824,526",AG,15.0%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_16,RA,NZ_CP012004,"3,481,689",GA,6.5%,R207C(CGTTGT),ACX60_RS16410,translation initiation factor IF2
+breseq_17,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_17,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_17,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_17,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_17,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_17,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_17,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_17,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_17,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_17,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_17,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_17,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_17,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_17,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_17,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_17,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_17,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_17,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_17,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_17,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_17,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_17,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_17,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_17,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_17,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_17,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_17,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_17,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_17,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_17,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_17,RA,NZ_CP012004,"489,303",1bp,12.1%,coding(39/663nt),ACX60_RS02390,hypothetical protein
+breseq_17,RA,NZ_CP012004,"489,649",CT,37.4%,R129C(CGTTGT),ACX60_RS02390,hypothetical protein
+breseq_17,RA,NZ_CP012004,"489,839",GA,39.4%,C192Y(TGTTAT),ACX60_RS02390,hypothetical protein
+breseq_17,RA,NZ_CP012004,"1,938,518",AT,8.6%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_17,RA,NZ_CP012004,"1,939,476",TA,32.6%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_17,RA,NZ_CP012004,"1,939,485",GC,49.4%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_17,RA,NZ_CP012004,"1,939,486",GT,50.8%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_17,RA,NZ_CP012004,"2,215,667",TC,8.5%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,670",GT,8.6%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,674",AG,8.7%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,676",CT,8.8%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,677",AT,8.4%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,679",AT,8.6%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,691",CT,12.3%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,694",CT,11.7%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,698",CT,12.2%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,700",TG,10.2%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,703",TA,10.2%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,706",CT,10.7%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,713",CG,20.7%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,715",CG,21.3%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,718",AT,21.3%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,727",CA,30.9%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,729",AG,30.3%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,730",AT,30.4%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,736",AT,31.7%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,740",TA,31.9%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,763",AT,34.4%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,766",GA,35.1%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,769",AT,33.7%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,772",TC,33.2%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,775",GA,33.3%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,781",AC,33.0%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,782",AC,32.9%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,784",TA,32.2%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,785",TC,32.5%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,787",AT,32.6%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,799",GA,25.8%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,802",TA,25.8%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,803",CG,25.6%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,805",TA,24.6%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,806",AG,26.5%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,808",AT,27.2%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,811",CA,26.8%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,814",GT,26.9%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,816",GA,26.8%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,817",TC,26.8%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,832",TC,26.5%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,838",TC,20.9%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,841",CT,20.8%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,844",AT,20.7%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,847",CT,19.1%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,850",CT,15.3%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,215,856",CA,13.8%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_17,RA,NZ_CP012004,"2,824,295",AG,9.7%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,298",CA,10.0%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,304",AG,9.4%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,307",GA,10.1%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,310",AC,10.7%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,313",AC,10.7%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,319",TG,11.5%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,322",CG,26.0%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,325",TA,24.7%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,334",TC,33.9%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,346",CG,36.0%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,352",GA,35.2%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,358",CT,37.9%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,361",CT,39.0%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,370",GA,38.8%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,376",GT,39.9%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,379",AC,38.6%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,382",TC,38.2%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,385",TC,36.9%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,391",TA,41.3%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,397",CG,41.8%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,421",GA,42.9%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,430",TA,36.4%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,432",AG,37.1%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,433",AT,37.0%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,435",CG,36.5%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,436",TC,37.4%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,439",AT,37.1%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,442",AG,37.2%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,453",CT,29.6%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,454",TG,29.6%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,457",GA,30.0%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,466",AG,27.2%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,469",AT,20.3%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,471",GA,20.9%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,472",TG,20.9%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,475",CT,20.3%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,487",GT,17.2%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,489",GA,16.9%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,490",TA,17.1%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,493",TA,16.0%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,495",GT,16.2%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,502",AT,15.1%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,503",CT,15.0%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,508",TA,14.9%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,514",AC,12.7%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,517",GA,13.4%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,520",TG,11.1%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,525",GT,11.6%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"2,824,526",AG,10.9%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_17,RA,NZ_CP012004,"3,082,598",CT,6.5%,R505H(CGTCAT),ACX60_RS14630,twocomponent sensor histidine kinase
+breseq_18,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_18,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_18,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_18,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_18,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_18,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_18,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_18,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_18,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_18,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_18,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_18,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_18,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_18,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_18,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_18,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_18,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_18,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_18,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_18,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_18,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_18,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_18,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_18,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_18,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_18,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_18,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_18,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_18,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_18,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_18,JC,NZ_CP012004,"131,198",(AAG)87,6.4%,coding(8587/183nt),ACX60_RS00600,hypothetical protein
+breseq_18,RA,NZ_CP012004,"418,975",GT,18.8%,P516P(CCGCCT),ACX60_RS01970,DEAD/DEAH box helicase
+breseq_18,RA,NZ_CP012004,"472,137",GT,9.6%,G468G(GGCGGA),ACX60_RS02305,hypothetical protein
+breseq_18,RA,NZ_CP012004,"795,309",AG,57.3%,F386S(TTTTCT),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_18,RA,NZ_CP012004,"796,052",TA,7.5%,Q138H(CAACAT),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_18,RA,NZ_CP012004,"796,059",AG,13.3%,F136S(TTCTCC),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_18,RA,NZ_CP012004,"1,938,518",AT,6.1%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_18,RA,NZ_CP012004,"1,939,476",TA,17.8%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_18,RA,NZ_CP012004,"1,939,485",GC,68.9%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_18,RA,NZ_CP012004,"1,939,486",GT,67.6%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_18,RA,NZ_CP012004,"2,215,667",TC,9.1%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,670",GT,9.4%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,674",AG,9.3%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,676",CT,9.4%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,677",AT,9.4%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,679",AT,9.3%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,691",CT,12.0%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,694",CT,11.7%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,698",CT,11.7%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,700",TG,10.4%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,703",TA,9.6%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,706",CT,10.2%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,713",CG,19.6%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,715",CG,20.2%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,718",AT,20.2%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,727",CA,31.6%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,729",AG,31.1%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,730",AT,31.1%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,736",AT,33.6%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,740",TA,34.5%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,763",AT,35.1%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,766",GA,35.3%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,769",AT,34.5%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,772",TC,33.7%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,775",GA,34.2%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,781",AC,33.3%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,782",AC,34.0%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,784",TA,33.1%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,785",TC,33.2%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,787",AT,33.3%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,799",GA,27.5%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,802",TA,27.9%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,803",CG,27.9%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,805",TA,27.1%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,806",AG,28.5%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,808",AT,28.8%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,811",CA,28.6%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,814",GT,28.4%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,816",GA,28.6%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,817",TC,29.0%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,832",TC,26.6%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,838",TC,19.2%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,841",CT,19.6%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,844",AT,19.4%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,847",CT,19.0%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,215,850",CT,16.1%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_18,RA,NZ_CP012004,"2,824,295",AG,9.1%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,298",CA,9.2%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,304",AG,11.0%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,307",GA,12.2%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,310",AC,12.6%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,313",AC,12.6%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,319",TG,13.0%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,322",CG,30.0%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,325",TA,28.3%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,334",TC,35.8%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,346",CG,38.7%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,352",GA,37.0%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,358",CT,39.1%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,361",CT,40.1%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,370",GA,41.1%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,376",GT,42.2%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,379",AC,40.9%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,382",TC,41.0%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,385",TC,39.2%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,391",TA,42.6%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,397",CG,42.5%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,421",GA,44.9%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,430",TA,40.5%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,432",AG,40.6%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,433",AT,40.7%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,435",CG,40.0%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,436",TC,40.4%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,439",AT,40.7%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,442",AG,41.4%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,453",CT,32.2%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,454",TG,32.1%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,457",GA,32.0%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,466",AG,27.9%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,469",AT,19.4%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,471",GA,20.6%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,472",TG,20.7%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,475",CT,20.4%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,487",GT,19.0%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,489",GA,18.6%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,490",TA,18.9%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,493",TA,17.2%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,495",GT,17.6%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,502",AT,16.6%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,503",CT,16.6%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,508",TA,15.7%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,514",AC,14.6%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,517",GA,13.6%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,520",TG,11.9%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,525",GT,11.8%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_18,RA,NZ_CP012004,"2,824,526",AG,11.6%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_19,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_19,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_19,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_19,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_19,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_19,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_19,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_19,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_19,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_19,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_19,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_19,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_19,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_19,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_19,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_19,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_19,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_19,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_19,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_19,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_19,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_19,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_19,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_19,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_19,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_19,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_19,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_19,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_19,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_19,JC,NZ_CP012004,"310,768",3bp,34.8%,coding(10721074/1833nt),ACX60_RS01490,peptide ABC transporter permease
+breseq_19,RA,NZ_CP012004,"311,030",CT,54.3%,T445I(ACCATC),ACX60_RS01490,peptide ABC transporter permease
+breseq_19,RA,NZ_CP012004,"418,975",GT,21.7%,P516P(CCGCCT),ACX60_RS01970,DEAD/DEAH box helicase
+breseq_19,RA,NZ_CP012004,"489,303",1bp,93.0%,coding(39/663nt),ACX60_RS02390,hypothetical protein
+breseq_19,JC,NZ_CP012004,"489,620:1",+GCTG,11.1%,coding(356/663nt),ACX60_RS02390,hypothetical protein
+breseq_19,RA,NZ_CP012004,"795,630",GA,8.4%,S279L(TCGTTG),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_19,RA,NZ_CP012004,"1,938,518",AT,9.0%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_19,RA,NZ_CP012004,"1,939,476",TA,34.9%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_19,RA,NZ_CP012004,"1,939,485",GC,50.0%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_19,RA,NZ_CP012004,"1,939,486",GT,50.0%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_19,RA,NZ_CP012004,"2,215,667",TC,8.3%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,670",GT,8.9%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,674",AG,8.8%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,676",CT,8.3%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,677",AT,8.2%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,679",AT,8.1%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,691",CT,9.7%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,694",CT,9.7%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,698",CT,9.7%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,700",TG,9.3%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,703",TA,8.4%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,706",CT,9.0%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,713",CG,21.0%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,715",CG,21.3%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,718",AT,20.9%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,727",CA,33.0%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,729",AG,32.4%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,730",AT,32.3%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,736",AT,33.7%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,740",TA,33.4%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,763",AT,36.8%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,766",GA,37.6%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,769",AT,36.4%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,772",TC,35.9%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,775",GA,35.4%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,781",AC,34.9%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,782",AC,35.3%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,784",TA,34.4%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,785",TC,34.3%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,787",AT,34.4%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,799",GA,27.9%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,802",TA,27.8%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,803",CG,27.7%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,805",TA,26.1%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,806",AG,27.9%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,808",AT,27.9%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,811",CA,28.0%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,814",GT,28.1%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,816",GA,27.6%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,817",TC,28.6%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,832",TC,28.3%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,838",TC,21.7%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,841",CT,22.3%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,844",AT,21.7%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,847",CT,20.4%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,850",CT,17.1%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,215,856",CA,13.7%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_19,RA,NZ_CP012004,"2,824,295",AG,7.9%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,298",CA,8.3%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,304",AG,8.2%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,307",GA,8.5%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,310",AC,9.9%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,313",AC,9.1%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,319",TG,9.6%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,322",CG,24.0%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,325",TA,22.6%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,334",TC,35.3%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,346",CG,36.6%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,352",GA,35.1%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,358",CT,35.8%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,361",CT,37.0%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,370",GA,37.3%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,376",GT,39.2%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,379",AC,38.3%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,382",TC,37.5%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,385",TC,36.5%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,391",TA,40.5%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,397",CG,40.4%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,421",GA,42.6%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,430",TA,38.1%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,432",AG,38.2%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,433",AT,38.5%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,435",CG,37.8%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,436",TC,38.1%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,439",AT,38.2%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,442",AG,38.5%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,453",CT,31.5%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,454",TG,31.2%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,457",GA,31.7%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,466",AG,29.3%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,469",AT,21.2%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,471",GA,21.5%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,472",TG,21.4%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,475",CT,21.1%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,487",GT,18.7%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,489",GA,18.5%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,490",TA,18.4%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,493",TA,17.0%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,495",GT,17.1%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,502",AT,17.7%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,503",CT,17.4%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,508",TA,16.0%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,514",AC,14.5%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,517",GA,14.2%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,520",TG,11.9%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,525",GT,10.5%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"2,824,526",AG,10.6%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_19,RA,NZ_CP012004,"3,484,578",CA,7.5%,intergenic(214/+2),ACX60_RS16420/ACX60_RS16425,ribosome maturation factor/tRNAMet
+breseq_19,RA,NZ_CP012005,"30,637",AT,7.1%,F38Y(TTCTAC),ACX60_RS18340,hypothetical protein
+breseq_20,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_20,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_20,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_20,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_20,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_20,JC,NZ_CP012004,"310,768",3bp,100%,coding(10721074/1833nt),ACX60_RS01490,peptide ABC transporter permease
+breseq_20,RA,NZ_CP012004,"489,303",1bp,100%,coding(39/663nt),ACX60_RS02390,hypothetical protein
+breseq_20,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_20,RA,NZ_CP012004,"797,959",GA,100%,H141Y(CATTAT),ACX60_RS03840,phosphatidylglycerophosphatase
+breseq_20,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_20,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_20,RA,NZ_CP012004,"931,336",CT,100%,S81L(TCATTA),ACX60_RS04430,DNA gyrase subunit A
+breseq_20,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_20,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_20,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_20,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_20,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_20,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_20,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_20,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_20,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_20,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_20,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_20,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_20,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_20,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_20,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_20,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_20,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_20,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_20,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_20,JC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_20,RA,NZ_CP012004,"1,804,218",TG,6.6%,A312A(GCTGCG),ACX60_RS08500,GlutRNA amidotransferase
+breseq_20,RA,NZ_CP012004,"1,938,518",AT,8.3%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_20,RA,NZ_CP012004,"1,939,476",TA,30.4%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_20,RA,NZ_CP012004,"1,939,485",GC,55.3%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_20,RA,NZ_CP012004,"1,939,486",GT,56.7%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_20,RA,NZ_CP012004,"2,215,667",TC,7.5%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,670",GT,7.5%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,674",AG,7.8%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,676",CT,7.4%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,677",AT,8.0%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,679",AT,8.0%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,691",CT,11.8%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,694",CT,11.6%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,698",CT,11.6%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,700",TG,10.5%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,703",TA,9.8%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,706",CT,10.4%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,713",CG,21.9%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,715",CG,22.5%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,718",AT,22.0%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,727",CA,34.1%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,729",AG,33.7%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,730",AT,33.7%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,736",AT,34.3%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,740",TA,34.1%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,763",AT,36.3%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,766",GA,36.5%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,769",AT,36.1%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,772",TC,35.1%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,775",GA,35.0%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,781",AC,34.4%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,782",AC,34.4%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,784",TA,34.4%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,785",TC,34.4%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,787",AT,34.4%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,799",GA,26.9%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,802",TA,26.9%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,803",CG,26.9%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,805",TA,25.9%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,806",AG,27.1%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,808",AT,27.2%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,811",CA,27.3%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,814",GT,27.6%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,816",GA,27.2%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,817",TC,27.6%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,832",TC,25.7%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,838",TC,19.6%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,841",CT,19.3%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,844",AT,19.1%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,847",CT,16.8%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,850",CT,15.7%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,215,856",CA,12.7%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_20,RA,NZ_CP012004,"2,824,295",AG,7.5%,G439G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,298",CA,7.9%,V438V(GTGGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,304",AG,8.2%,G436G(GGTGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,307",GA,8.3%,Y435Y(TACTAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,310",AC,8.6%,V434V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,313",AC,8.5%,V433V(GTTGTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,319",TG,9.1%,A431A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,322",CG,27.3%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,325",TA,26.1%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,334",TC,36.6%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,346",CG,40.2%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,352",GA,39.8%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,358",CT,43.2%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,361",CT,43.2%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,370",GA,43.6%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,376",GT,45.1%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,379",AC,44.5%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,382",TC,43.8%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,385",TC,42.2%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,391",TA,47.3%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,397",CG,47.3%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,421",GA,50.6%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,430",TA,46.7%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,432",AG,47.3%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,433",AT,47.4%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,435",CG,46.4%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,436",TC,46.1%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,439",AT,46.1%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,442",AG,46.4%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,453",CT,39.3%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,454",TG,39.1%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,457",GA,39.5%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,466",AG,34.8%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,469",AT,29.2%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,471",GA,29.7%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,472",TG,29.7%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,475",CT,27.7%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,487",GT,25.6%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,489",GA,24.6%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,490",TA,24.6%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,493",TA,22.8%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,495",GT,23.2%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,502",AT,21.4%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,503",CT,21.5%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,508",TA,20.4%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,514",AC,19.3%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,517",GA,19.6%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,520",TG,18.0%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,525",GT,16.6%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,526",AG,16.1%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012004,"2,824,544",CA,5.9%,E356D(GAGGAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_20,RA,NZ_CP012005,"147,112",TA,6.8%,V188D(GTTGAT),ACX60_RS18975,hypothetical protein
+breseq_21,RA,NC_009083,"8,125:1",(T)78,100%,intergenic(440/+477),A1S_3466/A1S_3467,resolvase/hypothetical protein
+breseq_21,RA,NZ_CP012004,"97,721",AT,100%,V179E(GTAGAA),ACX60_RS00440,glutaminefructose6phosphate aminotransferase
+breseq_21,MCJC,NZ_CP012004,"129,758","1,312bp",100%,,ACX60_RS00590ACX60_RS19010,"ACX60_RS00590, ACX60_RS19010"
+breseq_21,RA,NZ_CP012004,"207,638",GA,100%,A382T(GCAACA),actP,cation acetate symporter
+breseq_21,RA,NZ_CP012004,"290,392",AG,100%,E292G(GAGGGG),ACX60_RS01385,energydependent translational throttle protein EttA
+breseq_21,JC,NZ_CP012004,"489,801",8bp,100%,coding(537544/663nt),ACX60_RS02390,hypothetical protein
+breseq_21,RA,NZ_CP012004,"524,616:1",+A,100%,coding(103/1011nt),ACX60_RS02575,phosphohydrolase
+breseq_21,RA,NZ_CP012004,"795,604",CT,100%,G288S(GGTAGT),ACX60_RS03830,AdeB/AdeJ family multidrug efflux RND transporter permease subunit
+breseq_21,RA,NZ_CP012004,"807,273",GA,100%,P439P(CCGCCA),ACX60_RS03885,sirohydrochlorin ferrochelatase
+breseq_21,RA,NZ_CP012004,"887,903",GT,100%,G553V(GGTGTT),ACX60_RS04220,multidrug efflux RND transporter permease subunit
+breseq_21,RA,NZ_CP012004,"965,789",CT,100%,R226H(CGTCAT),ACX60_RS04575,fructosebisphosphatase class I
+breseq_21,RA,NZ_CP012004,"1,075,443",AT,100%,N258I(AATATT),ACX60_RS05080,GTPase ObgE
+breseq_21,RA,NZ_CP012004,"1,226,257",GA,100%,G12D(GGCGAC),ACX60_RS05695,membrane protein
+breseq_21,RA,NZ_CP012004,"1,389,346",TA,100%,intergenic(63/521),ACX60_RS06475/ACX60_RS06480,TetR family transcriptional regulator/protein CsuA/B
+breseq_21,RA,NZ_CP012004,"1,685,154",TC,100%,M78T(ATGACG),ACX60_RS07925,"ditrans,polycisdecaprenylcistransferase"
+breseq_21,RA,NZ_CP012004,"2,068,076",TA,100%,pseudogene(1127/1866nt),ACX60_RS09760,peptidylprolyl isomerase
+breseq_21,RA,NZ_CP012004,"2,109,791",CT,100%,A55T(GCTACT),ACX60_RS09960,hypothetical protein
+breseq_21,RA,NZ_CP012004,"2,135,294:1",+C,100%,coding(1219/1332nt),ACX60_RS10125,hypothetical protein
+breseq_21,RA,NZ_CP012004,"2,172,876",TG,100%,F799V(TTTGTT),ACX60_RS10360,LPS biosynthesis protein
+breseq_21,RA,NZ_CP012004,"2,189,235",AG,100%,intergenic(+316/91),ACX60_RS10445/ACX60_RS10450,NADdependent deacetylase/sodium:proline symporter
+breseq_21,RA,NZ_CP012004,"2,236,009",GA,100%,intergenic(143/+394),ACX60_RS10680/ACX60_RS10685,amino acid ABC transporter substratebinding protein/glutathione Stransferase
+breseq_21,RA,NZ_CP012004,"2,410,784",CA,100%,T2K(ACAAAA),ACX60_RS11490,aspartate:proton symporter
+breseq_21,RA,NZ_CP012004,"2,821,247",TA,100%,L145Q(CTGCAG),ACX60_RS13410,hypothetical protein
+breseq_21,RA,NZ_CP012004,"3,066,627",TC,100%,T524A(ACTGCT),ACX60_RS14560,NADHquinone oxidoreductase subunit M
+breseq_21,RA,NZ_CP012004,"3,384,892",1bp,100%,intergenic(133/132),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_21,RA,NZ_CP012004,"3,384,893",GA,100%,intergenic(134/131),ACX60_RS15990/ACX60_RS15995,AraC family transcriptional regulator/translation initiation factor IF1
+breseq_21,RA,NZ_CP012004,"3,429,848",AT,100%,H55L(CATCTT),ACX60_RS16215,electron transfer flavoproteinubiquinone oxidoreductase
+breseq_21,RA,NZ_CP012004,"3,639,090",AT,100%,Y145N(TATAAT),ACX60_RS17155,YgiQ family radical SAM protein
+breseq_21,RA,NZ_CP012004,"3,687,288",AC,100%,intergenic(53/+13),ACX60_RS17415/ACX60_RS17420,adenylyltransferase/GMP synthase (glutaminehydrolyzing)
+breseq_21,MCJC,NZ_CP012004,"3,852,237",(ATGGTG)98,100%,coding(469474/1002nt),ACX60_RS18160,cation transporter
+breseq_21,RA,NZ_CP012004,"1,938,518",AT,7.0%,intergenic(425/+34),ACX60_RS09135/ACX60_RS09140,thiamine ABC transporter permease/hypothetical protein
+breseq_21,RA,NZ_CP012004,"1,939,476",TA,28.9%,pseudogene(6/369nt),antC,anthranilate dioxygenase reductase
+breseq_21,RA,NZ_CP012004,"1,939,485",GC,54.3%,pseudogene(15/369nt),antC,anthranilate dioxygenase reductase
+breseq_21,RA,NZ_CP012004,"1,939,486",GT,57.1%,pseudogene(16/369nt),antC,anthranilate dioxygenase reductase
+breseq_21,RA,NZ_CP012004,"2,215,667",TC,11.2%,R238R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,670",GT,11.5%,G239G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,674",AG,11.0%,N241D(AACGAC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,676",CT,10.8%,N241N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,677",AT,10.6%,I242L(ATATTA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,679",AT,10.6%,I242I(ATAATT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,691",CT,11.4%,D246D(GACGAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,694",CT,11.4%,R247R(CGCCGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,698",CT,11.4%,L249F(CTTTTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,700",TG,9.7%,L249L(CTTCTG),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,703",TA,10.1%,P250P(CCTCCA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,706",CT,10.3%,N251N(AACAAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,713",CG,21.9%,L254V(CTCGTC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,715",CG,21.9%,L254L(CTCCTG),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,718",AT,22.6%,G255G(GGAGGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,727",CA,33.7%,P258P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,729",AG,33.7%,Q259R(CAACGA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,730",AT,33.7%,Q259H(CAACAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,736",AT,35.3%,R261R(CGACGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,740",TA,36.5%,Y263N(TATAAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,763",AT,37.7%,V270V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,766",GA,37.9%,E271E(GAGGAA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,769",AT,36.6%,V272V(GTAGTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,772",TC,36.7%,R273R(CGTCGC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,775",GA,36.1%,Q274Q(CAGCAA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,781",AC,36.0%,G276G(GGAGGC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,782",AC,36.2%,N277H(AATCAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,784",TA,35.5%,N277K(AATAAA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,785",TC,35.5%,L278L(TTACTA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,787",AT,35.6%,L278F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,799",GA,28.9%,T282T(ACGACA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,802",TA,28.8%,T283T(ACTACA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,803",CG,28.7%,L284V(CTTGTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,805",TA,28.0%,L284L(CTTCTA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,806",AG,29.4%,T285A(ACAGCA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,808",AT,29.6%,T285T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,811",CA,29.6%,P286P(CCCCCA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,814",GT,30.3%,G287G(GGGGGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,816",GA,29.6%,S288N(AGTAAT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,817",TC,31.3%,S288S(AGTAGC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,832",TC,32.0%,D293D(GATGAC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,838",TC,24.5%,Y295Y(TATTAC),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,841",CT,23.9%,P296P(CCCCCT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,844",AT,23.7%,T297T(ACAACT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,847",CT,21.8%,G298G(GGCGGT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,850",CT,20.3%,F299F(TTCTTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,856",CA,19.3%,G301G(GGCGGA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,860",TA,6.0%,L303I(TTAATA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,862",AT,5.6%,L303F(TTATTT),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,215,863",CG,5.6%,Q304E(CAAGAA),ACX60_RS10580,fimbrial protein
+breseq_21,RA,NZ_CP012004,"2,824,322",CG,28.5%,G430G(GGGGGC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,325",TA,26.5%,A429A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,334",TC,35.1%,L426L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,346",CG,37.8%,V422V(GTGGTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,352",GA,36.9%,I420I(ATCATT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,358",CT,36.3%,S418S(TCGTCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,361",CT,37.4%,E417E(GAGGAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,370",GA,39.6%,F414F(TTCTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,376",GT,40.4%,A412A(GCCGCA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,379",AC,39.9%,R411R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,382",TC,39.3%,L410L(TTATTG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,385",TC,38.0%,E409E(GAAGAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,391",TA,44.7%,V407V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,397",CG,45.5%,T405T(ACGACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,421",GA,45.7%,A397A(GCCGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,430",TA,42.6%,L394F(TTATTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,432",AG,43.4%,L394L(TTACTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,433",AT,43.4%,V393V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,435",CG,42.8%,V393L(GTTCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,436",TC,44.1%,Q392Q(CAACAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,439",AT,43.1%,V391V(GTTGTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,442",AG,43.2%,I390I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,453",CT,34.3%,D387N(GACAAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,454",TG,34.3%,A386A(GCAGCC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,457",GA,34.5%,G385G(GGCGGT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,466",AG,31.5%,Y382Y(TATTAC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,469",AT,25.6%,L381L(CTTCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,471",GA,27.0%,L381F(CTTTTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,472",TG,27.1%,T380T(ACAACC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,475",CT,25.8%,Q379Q(CAGCAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,487",GT,23.6%,L375L(CTCCTA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,489",GA,23.1%,L375F(CTCTTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,490",TA,23.1%,V374V(GTAGTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,493",TA,21.9%,Q373H(CAACAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,495",GT,22.0%,Q373K(CAAAAA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,502",AT,21.0%,R370R(CGTCGA),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,503",CT,21.0%,R370H(CGTCAT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,508",TA,20.1%,A368A(GCAGCT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,514",AC,19.5%,R366R(CGTCGG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,517",GA,18.7%,L365L(CTCCTT),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,520",TG,17.5%,L364F(TTATTC),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,525",GT,17.4%,Q363K(CAGAAG),ACX60_RS13425,RNA degradosome polyphosphate kinase
+breseq_21,RA,NZ_CP012004,"2,824,526",AG,16.4%,I362I(ATTATC),ACX60_RS13425,RNA degradosome polyphosphate kinase
